@@ -6,13 +6,17 @@ This is a simple web application that allows users to search for movies using th
 <br>
 Features
 <li>Search movies by title using the OMDB API.</li>
-Display a list of search results with movie title, year, and poster.
-View additional movie details by clicking on a movie in the list.
-Rate movies on a scale of 1 to 5 stars.
-Leave comments about each movie.
-Persist user ratings and comments in the local storage.
-Technologies Used
-HTML
-CSS
-JavaScript (ES6)
-OMDB API
+<li>Display a list of search results with movie title, year, and poster.</li>
+<li>View additional movie details by clicking on a movie in the list.</li>
+<li>Rate movies on a scale of 1 to 5 stars.</li>
+<li>Leave comments about each movie.</li>
+<li>Persist user ratings and comments in the local storage.</li>
+<br>
+<h3>Technologies Used</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript (ES6)</li>
+<li>OMDB API</li>
+<br>
+<br>
+<h4>Thank you !!!</h4>
