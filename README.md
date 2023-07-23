@@ -2,13 +2,17 @@
 <br>
 OMDB Movie List Application
 <br>
+<br>
 WebPage Link: https://vishalyl02.github.io/Omdb-webpage/
 <br>
+<br>
 This is a simple web application that allows users to search for movies using the OMDB API and display the search results as a list. 
+<br>
 <br>Users can also view additional details of a movie by clicking on it. Additionally, users can rate movies and leave comments, which will be saved in the local storage.
 <br>
 <br>
 Features
+<br>
 <li>Search movies by title using the OMDB API.</li>
 <li>Display a list of search results with movie title, year, and poster.</li>
 <li>View additional movie details by clicking on a movie in the list.</li>
@@ -21,6 +25,9 @@ Features
 <li>CSS</li>
 <li>Javascript (ES6)</li>
 <li>OMDB API</li>
+<br>
+<br>
+Note: Movie Details can be found at bottom of page when click on movie poster.
 <br>
 <br>
 <h4>Thank you !!!</h4>
