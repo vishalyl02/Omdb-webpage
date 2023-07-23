@@ -41,9 +41,7 @@ function addMovieItemClickEventListeners() {
     });
   }
   
-  // Event handler when a movie item is clicked
- 
-  // Function to hide the movie details section
+
   // Add the movie details section display logic in onMovieItemClick function
 function onMovieItemClick(movieIndex) {
     const selectedMovie = movieData[movieIndex];
