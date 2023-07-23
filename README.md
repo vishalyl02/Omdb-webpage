@@ -5,6 +5,7 @@ OMDB Movie List Application
 This is a simple web application that allows users to search for movies using the OMDB API and display the search results as a list. 
 <br>Users can also view additional details of a movie by clicking on it. Additionally, users can rate movies and leave comments, which will be saved in the local storage.
 <br>
+<br>
 Features
 <li>Search movies by title using the OMDB API.</li>
 <li>Display a list of search results with movie title, year, and poster.</li>
