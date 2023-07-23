@@ -27,7 +27,9 @@ Features
 <li>OMDB API</li>
 <br>
 <br>
-Note: Movie Details can be found at bottom of page when click on movie poster.
+Note: a) Movie Details can be found at bottom of page when click on movie poster.
+<br>
+b) Previous button is not fully functional for some cases ( when we go for next page of home screen ).
 <br>
 <br>
 <h4>Thank you !!!</h4>
